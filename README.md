@@ -1,16 +1,19 @@
-## Hi there 👋
+# Lalit Hinduja — Software Developer
 
-<!--
-**LH-10/LH-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lalit Hinduja, a developer passionate about building useful and creative projects.  
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Find me online:**  
+
+<a href="https://lalit-hinduja-portfolio.vercel.app/"  >
+  <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="20"/> https://lalit-hinduja-portfolio.vercel.app/
+</a>  
+<br/>
+<a href="https://www.linkedin.com/in/lalith10">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-hero-fg-dsk-v01.png/jcr:content/renditions/brand-inlogo-hero-fg-dsk-v01-2x.png" width="20"/> https://www.linkedin.com/in/lalith10
+</a>  
+
+<hr/>
+
+Thanks for visiting my GitHub!
