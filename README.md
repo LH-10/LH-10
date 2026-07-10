@@ -15,5 +15,6 @@ I'm Lalit Hinduja, a developer passionate about building useful and creative pro
 </a>  
 
 <hr/>
-
+![Language Stats](stats/leaderboard_by_lines.png)
+<hr/>
 Thanks for visiting my GitHub!
