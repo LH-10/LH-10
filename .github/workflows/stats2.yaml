@@ -19,7 +19,7 @@ jobs:
           token: ${{  secrets.LANG_STATS_TOKEN  }}
 
           # Options
-          user: ernado
+          user: LH-10
           template: classic
           base: header, activity, community, repositories, metadata
 
@@ -31,7 +31,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 10
           plugin_languages_recent_categories: data, markup, programming, prose
-          plugin_languages_recent_days: 60
+          plugin_languages_recent_days: 360
           plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
